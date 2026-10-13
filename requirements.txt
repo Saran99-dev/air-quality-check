@@ -1,0 +1,9 @@
+# R package requirements for Air Quality Explorer
+# Install all of them by running: source("install_packages.R")
+shiny
+dplyr
+tidyr
+lubridate
+ggplot2
+plotly
+readr
